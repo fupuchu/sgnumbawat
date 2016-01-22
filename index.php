@@ -79,8 +79,8 @@
  	<div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button_count"></div -->
  	<p class="lime-text accent-1">Refresh the page to get a new headline!</p>
  	<p>Disclaimer: This website is purely <strong>satirical</strong> and should not be taken seriously.</p>
- 	<p>v1.2 - Added more things we should be proud of</p> 
- 	<p>Made by <a href="https://twitter.com/fupuchu" class="white-text" target="_blank">@fupuchu</a><a href="https://twitter.com/fupuchu" class="white-text" target="_blank"><i class="fa fa-twitter-square"></i>Follow Me!</a></p>
+ 	<p>v1.2 - Added more things we should be proud of<br> 
+ 	Made by <a href="https://twitter.com/fupuchu" class="white-text" target="_blank">@fupuchu</a> <a href="https://twitter.com/fupuchu" class="white-text" target="_blank"><i class="fa fa-twitter-square"></i>Follow Me!</a></p>
  	<p>Have a suggestion? Drop me a <a href="https://twitter.com/fupuchu" class="white-text" target="_blank">tweet</a> with the hashtag #sgnumbawat</p>
  	</div>
  	</div>
